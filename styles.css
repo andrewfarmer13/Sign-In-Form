@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.container-fluid{
+    background-color: lightgrey;
+}
+
+.SignIN-container{
+    width: 600px;
+    height: 400px;
+}
